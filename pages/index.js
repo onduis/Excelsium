@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>DAMSY</title>
+        <title>EXCELSIUM</title>
         <meta name="description" content="Don't deal with data, talk to it" />
         <link rel="icon" href="/favicon.ico" />
       </Head>

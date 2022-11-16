@@ -53,7 +53,7 @@ export function CreatePage() {
     //   "}";
 
 
-    let prompt = "Generate an excel formula using spanish version that \"" + msg + "\"";
+    let prompt = "Generate an excel formula that \"" + msg + "\"";
     
     const response = await openai.createCompletion({
       model: "text-davinci-002",

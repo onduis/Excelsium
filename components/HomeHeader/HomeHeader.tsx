@@ -6,16 +6,16 @@ export function HomeHeader({ displayLogin }) {
   return (
     <header className={styles.header}>
       <Link href="/">
-        <h1>DAMSY</h1>
+        <h1>Excelsium</h1>
       </Link>
 
       <Link href="/precios">
-        <h3>Precios</h3>
+        <h3>Excelsium</h3>
       </Link>
 
       {displayLogin && (
         <Link href="auth?login">
-          <button>Inicia sesión</button>
+          <button>Login</button>
         </Link>
       )}
     </header>

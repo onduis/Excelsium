@@ -7,9 +7,9 @@ export function HomePage({ img }) {
   return (
     <section className={styles.home}>
       <div className={styles.homeData}>
-        <h1>Crea fórmulas de Excel en segundos</h1>
+        <h1>Create Excel formula in 2 seconds</h1>
 
-        <p>Escribe lo que necesitas y déjanos hacer el resto</p>
+        <p>Describe your idea, we'll create a formula</p>
       </div>
       <div className={styles.homeCTA}>
         <div className={styles.homeImg}>
