@@ -43,7 +43,7 @@ export function CreateFormulaPage() {
             />
           </svg>
 
-          <h1>Crea una fórmula</h1>
+          <h1>Create a Formula</h1>
         </div>
 
         <h2>o</h2>
@@ -71,7 +71,7 @@ export function CreateFormulaPage() {
             />
           </svg>
 
-          <h1>Entiende una fórmula</h1>
+          <h1>Explain a Formula</h1>
         </div>
       </div>
 
